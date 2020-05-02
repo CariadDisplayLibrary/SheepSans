@@ -1,7 +1,7 @@
 #ifndef _SHEEPSANS_H
 #define _SHEEPSANS_H
 
-#include <DisplayCore.h>
+#include <Cariad.h>
 
 namespace Fonts {
     extern const uint8_t SheepSans8[];
